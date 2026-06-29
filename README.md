@@ -12,21 +12,23 @@ I build clean, practical, and scalable automation systems using Python, Telegram
 
 ## About Me
 
-I am a developer focused on building Telegram bots, automation tools, backend workflows, and practical systems that solve real problems.
+I am a developer focused on building Telegram bots, automation tools, backend workflows, and practical systems that solve real-world problems.
 
 My main focus is writing clean code, building stable features, improving performance, and keeping projects simple, maintainable, and production-ready.
 
 ---
 
-## What I Work On
+## Core Work
 
-- Telegram bots and automation systems
-- Channel management and forwarding tools
-- Scraper and media-processing workflows
-- Admin panels and dashboard systems
-- MongoDB-based tracking and storage
-- VPS deployment and Linux-based bot hosting
-- Backend utilities for real-world automation
+- Telegram bot development
+- Automation systems
+- Channel management tools
+- Forwarding and scraper workflows
+- Media processing systems
+- Admin panels and dashboards
+- MongoDB-based tracking
+- VPS deployment and Linux hosting
+- Backend tools for real-world automation
 
 ---
 
@@ -34,36 +36,36 @@ My main focus is writing clean code, building stable features, improving perform
 
 ### Languages
 
-![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript)
-![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,javascript,html,css" />
+</p>
 
 ### Frameworks and Libraries
 
-![Pyrogram](https://img.shields.io/badge/Pyrogram-111111?style=for-the-badge)
-![Telethon](https://img.shields.io/badge/Telethon-111111?style=for-the-badge)
-![Flask](https://img.shields.io/badge/Flask-111111?style=for-the-badge&logo=flask)
-![FastAPI](https://img.shields.io/badge/FastAPI-111111?style=for-the-badge&logo=fastapi)
+<p align="left">
+  <img src="https://img.shields.io/badge/Pyrogram-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Telethon-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Flask-111111?style=for-the-badge&logo=flask" />
+  <img src="https://img.shields.io/badge/FastAPI-111111?style=for-the-badge&logo=fastapi" />
+</p>
 
 ### Databases and Tools
 
-![MongoDB](https://img.shields.io/badge/MongoDB-111111?style=for-the-badge&logo=mongodb)
-![SQLite](https://img.shields.io/badge/SQLite-111111?style=for-the-badge&logo=sqlite)
-![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github)
-![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux)
-![Replit](https://img.shields.io/badge/Replit-111111?style=for-the-badge&logo=replit)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,sqlite,git,github,linux,replit" />
+</p>
 
 ---
 
-## GitHub Performance
+## GitHub Stats
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MikoxYae&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&rank_icon=github" />
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=MikoxYae&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight&cache_seconds=86400" />
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=MikoxYae&theme=tokyonight&hide_border=true" />
+<br><br>
+
+<img width="100%" src="https://streak-stats.demolab.com?user=MikoxYae&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 
 </div>
 
@@ -73,17 +75,7 @@ My main focus is writing clean code, building stable features, improving perform
 
 <div align="center">
 
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikoxYae&layout=compact&hide_border=true&theme=tokyonight" />
-
-</div>
-
----
-
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=MikoxYae&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15" />
+<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikoxYae&layout=compact&hide_border=true&theme=tokyonight&cache_seconds=86400" />
 
 </div>
 
@@ -93,13 +85,13 @@ My main focus is writing clean code, building stable features, improving perform
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MikoxYae&theme=tokyo-night&hide_border=true" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MikoxYae&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
 
 ---
 
-## Profile Summary
+## Profile Views
 
 <div align="center">
 
@@ -150,6 +142,8 @@ Simple dashboards for monitoring bot activity, users, jobs, and daily usage.
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-MikoxYae-111111?style=for-the-badge&logo=github)](https://github.com/MikoxYae)
+<a href="https://github.com/MikoxYae">
+  <img src="https://img.shields.io/badge/GitHub-MikoxYae-111111?style=for-the-badge&logo=github" />
+</a>
 
 </div>
